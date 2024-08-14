@@ -43,10 +43,11 @@ export const reducer = (state,action)=>{
 
             }
         }
+       
 
 
-        default :
-        return state
+      default:
+       return state
 
      }
 
